@@ -2,10 +2,7 @@
 
 <img src="./static/imgs/HG_logo.jpg" width=200> 
 
-## TODO 
-- [x] Identify Data source ( videos from heath gamer YouTube Channel)
-- [x] Use pytube + OpenAI Whisper to transcribe the videos 
-- [x] Save the Daa into a csv with meta data 
+## Dataset 
     ```md 
         playlist_tag,
         playlist_url,
@@ -22,6 +19,11 @@
         video_description,
         video_transcript
 ```
+
+## TODO 
+- [x] Identify Data source ( videos from heath gamer YouTube Channel)
+- [x] Use pytube + OpenAI Whisper to transcribe the videos 
+- [x] Save the Daa into a csv with meta data 
 - [ ] Conduct Analysis on the Dataset 
 - [ ] Build an report on the dataset 
 - [ ] Design the A RAG based Chatbot
