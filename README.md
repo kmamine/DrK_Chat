@@ -1,6 +1,6 @@
-# Dr. K Chat Bot
+# Enlighten AI
 
-<img src="./static/imgs/HG_logo.jpg" width=200> 
+/*<img src="./static/imgs/HG_logo.jpg" width=200>*/ 
 
 ## Dataset 
 
